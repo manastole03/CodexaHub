@@ -1,8 +1,8 @@
-# 🦙 Llama Chat Proxy - Advanced AI Workflow Platform
+# 🦙 TechMate AI Chat - Advanced AI Workflow Platform
 
 ![Llama Chat Banner](https://via.placeholder.com/1200x400?text=Llama+Chat+Proxy+Platform)
 
-A production-ready, collaborative AI chat interface designed for power users. Llama Chat Proxy integrates structured workflows, prompt engineering tools, and real-time collaboration into a single, sleek application.
+A production-ready, collaborative AI chat interface designed for power users. AI integrates structured workflows, prompt engineering tools, and real-time collaboration into a single, sleek application.
 
 ---
 
@@ -54,7 +54,32 @@ AI-powered assistant to refine your prompts before sending.
 - **Right Sidebar:** specialized tools based on the active chat mode (e.g., SEO keywords for Writing, Code snippets for Coding).
 
 ---
+## Screenshots
 
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/792eb519-1c1d-48cf-b1ab-16cd3a921941" />
+
+<br>
+<br>
+
+<img width="1708" height="691" alt="image" src="https://github.com/user-attachments/assets/5f14535f-ed44-41a4-aa37-79ba55bfd8c9" />
+
+<br>
+<br>
+
+<img width="1416" height="871" alt="image" src="https://github.com/user-attachments/assets/c4847b58-6c3f-4169-864a-7f07ed749b06" />
+
+<br>
+<br>
+
+<img width="1339" height="534" alt="image" src="https://github.com/user-attachments/assets/42a06d53-10c7-4649-b908-a92125286297" />
+
+<br>
+<br>
+
+<img width="1397" height="468" alt="image" src="https://github.com/user-attachments/assets/3925028c-d107-40d1-bf22-8a3c7def01ac" />
+
+
+---
 ## 💻 Tech Stack
 
 ### Frontend
